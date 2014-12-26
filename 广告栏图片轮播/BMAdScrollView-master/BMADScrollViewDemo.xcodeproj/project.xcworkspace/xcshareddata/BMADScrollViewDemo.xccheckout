@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>886244AB-4C16-4778-AC5D-23256DAE5054</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BMADScrollViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D542BDEA-BE31-4485-8AD2-2DFAE739CC29</key>
+		<string>https://github.com/skyming/BMAdScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BMADScrollViewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D542BDEA-BE31-4485-8AD2-2DFAE739CC29</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skyming/BMAdScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D542BDEA-BE31-4485-8AD2-2DFAE739CC29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D542BDEA-BE31-4485-8AD2-2DFAE739CC29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BMAdScrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
