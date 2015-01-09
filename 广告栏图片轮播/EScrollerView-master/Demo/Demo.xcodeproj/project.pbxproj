@@ -22,6 +22,7 @@
 		AA15E5AA174392AF006D978F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA15E5A7174392AF006D978F /* 1.jpg */; };
 		AA15E5AB174392AF006D978F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA15E5A8174392AF006D978F /* 2.jpg */; };
 		AA15E5AC174392AF006D978F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA15E5A9174392AF006D978F /* 3.jpg */; };
+		E9657DAA1A5F9D7A00EE41E7 /* EEScrollerUIView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9657DA91A5F9D7A00EE41E7 /* EEScrollerUIView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,8 @@
 		AA15E5A7174392AF006D978F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 		AA15E5A8174392AF006D978F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 		AA15E5A9174392AF006D978F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		E9657DA81A5F9D7A00EE41E7 /* EEScrollerUIView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EEScrollerUIView.h; sourceTree = "<group>"; };
+		E9657DA91A5F9D7A00EE41E7 /* EEScrollerUIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EEScrollerUIView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 			children = (
 				AA15E5A41743914A006D978F /* EScrollerView.h */,
 				AA15E5A51743914A006D978F /* EScrollerView.m */,
+				E9657DA81A5F9D7A00EE41E7 /* EEScrollerUIView.h */,
+				E9657DA91A5F9D7A00EE41E7 /* EEScrollerUIView.m */,
 			);
 			path = EScrollerView;
 			sourceTree = "<group>";
@@ -200,6 +205,7 @@
 			files = (
 				AA15E58D1743911F006D978F /* main.m in Sources */,
 				AA15E5911743911F006D978F /* AppDelegate.m in Sources */,
+				E9657DAA1A5F9D7A00EE41E7 /* EEScrollerUIView.m in Sources */,
 				AA15E59A1743911F006D978F /* ViewController.m in Sources */,
 				AA15E5A61743914A006D978F /* EScrollerView.m in Sources */,
 			);
@@ -316,6 +322,7 @@
 				AA15E5A21743911F006D978F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -10,31 +10,31 @@
 	<string>Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>931DB24F-062E-4EAF-8727-277DA3C37525</key>
-		<string>https://github.com/jxd001/EScrollerView.git</string>
+		<key>32AF37349BE76F9E749006F8B6A0FC1E80323A47</key>
+		<string>https://github.com/luffyjie/LuJieTools.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Demo/Demo.xcodeproj/project.xcworkspace</string>
+	<string>广告栏图片轮播/EScrollerView-master/Demo/Demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>931DB24F-062E-4EAF-8727-277DA3C37525</key>
-		<string>../../..</string>
+		<key>32AF37349BE76F9E749006F8B6A0FC1E80323A47</key>
+		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jxd001/EScrollerView.git</string>
+	<string>https://github.com/luffyjie/LuJieTools.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>931DB24F-062E-4EAF-8727-277DA3C37525</string>
+	<string>32AF37349BE76F9E749006F8B6A0FC1E80323A47</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>931DB24F-062E-4EAF-8727-277DA3C37525</string>
+			<string>32AF37349BE76F9E749006F8B6A0FC1E80323A47</string>
 			<key>IDESourceControlWCCName</key>
-			<string>EScrollerView</string>
+			<string>LuJieTools</string>
 		</dict>
 	</array>
 </dict>

@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import "EScrollerView.h"
-@interface ViewController : UIViewController<EScrollerViewDelegate>
+#import "EEScrollerUIView.h"
+
+@interface ViewController : UIViewController<EScrollerViewDelegate,EEScrollerViewDelegate>
 
 @end
