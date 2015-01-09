@@ -36,12 +36,12 @@
 }
 -(void)EScrollerViewDidClicked:(NSUInteger)index
 {
-    NSLog(@"index--%d",index);
+    NSLog(@"index--%lu",(unsigned long)index);
 }
 
 -(void)EEScrollerViewDidClicked:(NSUInteger)index
 {
-    NSLog(@"index--%d",index);
+    NSLog(@"index--%lu",(unsigned long)index);
 }
 
 - (void)didReceiveMemoryWarning
